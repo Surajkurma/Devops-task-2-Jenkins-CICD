@@ -18,8 +18,6 @@ Latest Jenkins Build: SUCCESS
 
 ## Screenshot
 
-## Screenshot
-
 ![Jenkins Build Success](https://raw.githubusercontent.com/Surajkurma/Devops-task-2-Jenkins-CICD/main/Jenkins-Build-Success.png)
 
 ## Tools Used
