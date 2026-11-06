@@ -3,10 +3,10 @@ Jenkins CI/CD Pipeline with Build, Test and Deploy stages
 Testing Jenkins Poll SCM
 ## CI/CD Pipeline Stages
 
-1. **Checkout:** Pull source code from GitHub.
-2. **Build:** Prepare the application.
-3. **Test:** Execute application testing.
-4. **Deploy:** Deploy the application successfully.
+ **Checkout:** Pull source code from GitHub.
+ **Build:** Prepare the application.
+ **Test:** Execute application testing.
+ **Deploy:** Deploy the application successfully.
 
 ## Jenkins Poll SCM
 
