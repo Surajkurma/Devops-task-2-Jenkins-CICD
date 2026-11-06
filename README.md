@@ -16,9 +16,10 @@ Configured Poll SCM to check GitHub repository changes automatically.
 
 Latest Jenkins Build: SUCCESS
 
+
 ## Screenshot
 
-![Jenkins Build Success](https://raw.githubusercontent.com/Surajkurma/Devops-task-2-Jenkins-CICD/main/Jenkins-Build-Success.png)
+![Jenkins Build Success](./Jenkins-Build-Success.png)
 
 ## Tools Used
 
