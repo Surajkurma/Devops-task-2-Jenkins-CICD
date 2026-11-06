@@ -18,7 +18,7 @@ Latest Jenkins Build: SUCCESS
 
 ## Screenshot
 
-![Jenkins Build Success](Jenkins-Build-Success.png)
+![Jenkins Build Success](./Jenkins-Build-Success.png)
 
 ## Tools Used
 
